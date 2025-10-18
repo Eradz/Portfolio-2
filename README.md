@@ -52,7 +52,7 @@ The website will be available at http://localhost:3000 (or the specified port).
 
 Usage
 
-Visit the live site at [chidiebere.netlify.com] to explore the portfolio.
+Visit the live site at [https://chidiebereandrew.netlify.app] to explore the portfolio.
 Navigate through sections (Home, About, Projects, Contact) using the menu.
 Click on project cards to view details or visit live demos.
 Use the contact form to send messages or connect via linked social media profiles.
@@ -88,6 +88,6 @@ For inquiries or feedback:
 Email: [anaguchidiebere@gmail.com]
 GitHub: Eradz
 LinkedIn: [https://www.linkedin.com/in/chidiebere-andrew-anagu-5850b2237]
-Portfolio: [chidiebere.netlify.com]
+Portfolio: [https://chidiebereandrew.netlify.app]
 
 Thank you for visiting my portfolio!
